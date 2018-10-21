@@ -1,4 +1,4 @@
-# Houston flood zone analysis
+# houston-flood-zone-analysis
 
 The Los Angeles Times geospatial analysis of Houston property records conducted for the Nov. 8, 2017 story ["How Houston’s newest homes survived Hurricane Harvey"](http://www.latimes.com/projects/la-na-houston-harvey-home-survivors).
 
